@@ -37,7 +37,7 @@ A telecom company was losing customers every month, but had no clear picture of 
 ### 1. Churn Overview Dashboard
 This dashboard shows the overall health of the customer base and the main drivers of churn.
 
-![Churn Overview Dashboard](images/dashboard_page1.png)
+<img width="1220" height="693" alt="image" src="https://github.com/user-attachments/assets/7a435b7f-f0ad-40c3-96ef-b7e6603230c0" />
 
 * **Key Insight:** The "Month-to-Month" contract is the biggest driver of churn. These customers have a **42.7% churn rate**, while "Two Year" contract customers only have **2.8%**.
 * **Other Insights:**
@@ -49,7 +49,7 @@ This dashboard shows the overall health of the customer base and the main driver
 ### 2. Customer Segments & Retention Dashboard
 This dashboard digs into *who* leaves and when, and ranks the segments retention should prioritize.
 
-![Customer Segments Dashboard](images/dashboard_page2.png)
+<img width="1226" height="692" alt="image" src="https://github.com/user-attachments/assets/07265428-4b19-455b-90da-b439da093853" />
 
 * **Key Insight:** The highest-risk segment is **Month-to-Month + 0-12 months tenure + Fiber Optic** customers, with a churn rate of **70.2%**.
 * **Other Insights:**
